@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 💻 Hi, I'm ✨**@lytreallynb**✨
+- 💻 Hi, I'm ✨ **@lytreallynb** ✨
   
 - 🔭 I'm interested in AI, Machine Learning Engineering, and Software Engineering  
 
