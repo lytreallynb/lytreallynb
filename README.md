@@ -51,6 +51,7 @@
 - I'm looking to collaborate on **AI/ML projects**, **developer tools**, and **open source**
 - I speak Cantonese but still need to learn more on Duolingo 👉👈
 - Hobbies: **badminton** 🏸, **music, photography, philosophy**
+- I also built a **[job tracker](https://job-tracker-pi-six.vercel.app)** to keep my applications organized
 - Reach me at **[yutonglvv@gmail.com](mailto:yutonglvv@gmail.com)**
 - Portfolio: **[yutonglv.com](https://yutonglv.com)**
 
