@@ -51,9 +51,16 @@
 - I'm looking to collaborate on **AI/ML projects**, **developer tools**, and **open source**
 - I speak Cantonese but still need to learn more on Duolingo 👉👈
 - Hobbies: **badminton** 🏸, **music, photography, philosophy**
-- I also built a **[job tracker](https://job-tracker-pi-six.vercel.app)** to keep my applications organized
 - Reach me at **[yutonglvv@gmail.com](mailto:yutonglvv@gmail.com)**
 - Portfolio: **[yutonglv.com](https://yutonglv.com)**
+
+---
+
+### Interesting Projects
+
+- **[Job Tracker](https://job-tracker-pi-six.vercel.app)** — I built this to track job applications without the headache, good for lazy and busy people (like me) 😆
+- **[AI Creator Copilot](https://ai-creator-copilot.vercel.app)** — see my AI vibe coding PM project! trying to make good PM sense and actually it works 🎵
+- **[Typing](https://typingtyping-lytreallynbs-projects.vercel.app)** — wanna click faster? try this and also expand your bilingual vocabulary ⌨️
 
 ---
 
