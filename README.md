@@ -1,5 +1,11 @@
 <div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F0F14,30:2A1529,60:3D1F3A,100:0F0F14&height=100&section=header)
+
+</div>
+
+<div align="center">
+
 # Yutong Lyu
 
 **Software engineer building reliable systems, AI products, and developer tools**
@@ -40,14 +46,6 @@ I speak Mandarin, Cantonese, and English, and Duolingo still has things to teach
 
 <img src="./assets/banner.jpg" width="350" alt="Personal banner">
 
-<br><br>
-
-<img src="./assets/cat1.jpg" width="200" alt="My cat">
-&nbsp;
-<img src="./assets/cat2.jpg" width="200" alt="My other cat">
-&nbsp;
-<img src="./assets/me.jpg" width="200" alt="Yutong Lyu">
-
 </div>
 
 ## GitHub at a glance
@@ -60,12 +58,12 @@ I speak Mandarin, Cantonese, and English, and Duolingo still has things to teach
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lytreallynb&show_icons=true&hide_border=true&count_private=true&bg_color=111,0F0F14,1A1520&title_color=E8A0BF&text_color=F5F0E8&icon_color=D4A0C0&border_radius=10" height="150" alt="GitHub statistics">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lytreallynb&hide_border=true&background=0F0F14&stroke=2D2535&ring=E8A0BF&fire=FF97C1&currStreakNum=F5F0E8&currStreakLabel=E8A0BF&sideNums=F5F0E8&sideLabels=D4A0C0&dates=A090A8&border_radius=10" height="150" alt="GitHub contribution streak">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lytreallynb&theme=github_dark" height="160" alt="GitHub statistics">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lytreallynb&theme=github_dark" height="160" alt="Most used languages">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytreallynb&layout=compact&hide_border=true&bg_color=111,0F0F14,1A1520&title_color=E8A0BF&text_color=F5F0E8&border_radius=10" alt="Most used languages">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lytreallynb&bg_color=0F0F14&color=E8A0BF&line=D4A0C0&point=F5F0E8&area=true&hide_border=true" width="100%" alt="GitHub contributions">
 
 </div>
 
