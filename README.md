@@ -65,6 +65,14 @@ I speak Mandarin, Cantonese, and English, and Duolingo still has things to teach
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lytreallynb&bg_color=0F0F14&color=E8A0BF&line=D4A0C0&point=F5F0E8&area=true&hide_border=true" width="100%" alt="GitHub contributions">
 
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lytreallynb/lytreallynb/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lytreallynb/lytreallynb/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/lytreallynb/lytreallynb/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation">
+</picture>
+
 </div>
 
 ---
