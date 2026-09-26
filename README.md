@@ -12,7 +12,7 @@
 
 Computer Science & Data Science at the University of Michigan
 
-[Portfolio](https://yutonglv.com) · [Email](mailto:yutonglvv@gmail.com) · [GitHub](https://github.com/lytreallynb)
+[Portfolio](https://yutonglv.com) · [Seikode](https://seikode.dev) · [Email](mailto:yutonglvv@gmail.com) · [GitHub](https://github.com/lytreallynb)
 
 <br>
 
